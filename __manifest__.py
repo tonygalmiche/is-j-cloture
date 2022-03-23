@@ -19,6 +19,7 @@ InfoSaône - Module Odoo 15 pour J Cloture
         'purchase',
 ],
     'data' : [
+        'views/partner_view.xml',
         'report/sale_report_templates.xml',
         'report/report_invoice.xml',
     ],
